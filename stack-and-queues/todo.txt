@@ -1,3 +1,8 @@
 LeetCode 795 - "Number of Subarrays with Bounded Maximum",
 LeetCode 992 - "Subarrays with K Different Integers"
 LeetCode 1438 - "Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit"
+LeetCode 359 - Logger Rate Limiter
+
+
+/// Whenever greatest and smallest comes up in constant time complexity 
+// think of monotonic stacks
